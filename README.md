@@ -1,5 +1,4 @@
 # CampusConnect (Syrus 7.0, PS4)
-A student-focused campus platform for connecting students, discovering events, sharing resources, and finding campus opportunities.
 
 ## Setup
     python -m venv venv
